@@ -1,3 +1,5 @@
+#Code written by Jacob St. Martin
+
 import tkinter
 
 import numpy as np
